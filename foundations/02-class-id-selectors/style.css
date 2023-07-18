@@ -1,0 +1,18 @@
+p{
+    background-color: lightcoral;
+    font-family:Verdana, "DejaVu Sans", sans-serif ;
+}
+
+#ID1{
+ color: blue;
+ font-size: 36px;   
+}
+
+#ID2{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+#ID3{
+    font-size: 24px;
+}
